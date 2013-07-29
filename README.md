@@ -6,6 +6,12 @@ Fetches Vocabulary.com summaries, and formats them nicely for terms.
 AGREEMENT:
 Do whatever you want with this script, don't bother with including licence or anything.
 
+USAGE:
+
+```vocabulary.sh <search term>```
+e.g.
+```vocabulary.sh test```
+
 Here is the script:
 ```
 #!/bin/bash
